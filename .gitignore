@@ -1,0 +1,2 @@
+# Ignore acrobot q table as it is exceeding 400Mb
+q_learning/acrobot/q_tables/q_acrobot.pkl
