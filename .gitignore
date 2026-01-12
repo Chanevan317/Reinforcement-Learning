@@ -1,7 +1,7 @@
 # Ignore acrobot q table as it is exceeding 400Mb
-acrobot/q_learning/q_tables/q_acrobot.pkl
+classic_control/acrobot/q_learning/q_tables/q_acrobot.pkl
 
 # Ignore humanoid folder outputs and save only best_model
-humanoid/ppo/checkpoints/
-humanoid/ppo/logs/
-humanoid/ppo/models
+mujoco/humanoid/ppo/checkpoints/
+mujoco/humanoid/ppo/logs/
+mujoco/humanoid/ppo/models
