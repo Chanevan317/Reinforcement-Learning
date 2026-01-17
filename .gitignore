@@ -2,6 +2,7 @@
 classic_control/acrobot/q_learning/q_tables/q_acrobot.pkl
 
 # Ignore humanoid folder outputs and save only best_model
-mujoco/*/checkpoints/
-mujoco/*/logs/
-mujoco/*/models/
+mujoco/*/*/best_model/
+mujoco/*/*/checkpoints/
+mujoco/*/*/logs/
+mujoco/*/*/models/
